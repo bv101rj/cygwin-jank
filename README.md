@@ -11,7 +11,7 @@ If any of these are things you are encountering then this is for you.
 
 NOTE:
 
-This program does have some depends. The first is cygwin and the second is M$ofts SysInternals Suite. You just need to extract them and place the in /usr/local/bin. This should just work out of the box if you have admin privs either locally or on the domain. 
+This program does have some depends. The first is cygwin (I have a gist for this. Should pull down everything needed to make these work cygwin side.) and the second is M$ofts SysInternals Suite. You just need to extract them and place the in /usr/local/bin. This should just work out of the box if you have admin privs either locally or on the domain. 
 
 A domain admin account is going to be needed in order to actively levarge these scripts against target machines. 
 
